@@ -1,0 +1,21 @@
+
+
+#customers {
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+  }
+  
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #6b1b18;
+    color: white;
+  }

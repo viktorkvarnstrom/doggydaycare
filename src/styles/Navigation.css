@@ -1,0 +1,10 @@
+.headernav {
+    display: flex;
+}
+
+ul, li {
+    list-style: none;
+    padding-right: 100px;
+    font-size: 16px;
+    cursor: pointer;
+}
