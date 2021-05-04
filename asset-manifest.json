@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doggydaycare/static/css/main.b551b721.chunk.css",
+    "main.js": "/doggydaycare/static/js/main.f2aa0a41.chunk.js",
+    "main.js.map": "/doggydaycare/static/js/main.f2aa0a41.chunk.js.map",
+    "runtime-main.js": "/doggydaycare/static/js/runtime-main.68c532ed.js",
+    "runtime-main.js.map": "/doggydaycare/static/js/runtime-main.68c532ed.js.map",
+    "static/js/2.06f81bb8.chunk.js": "/doggydaycare/static/js/2.06f81bb8.chunk.js",
+    "static/js/2.06f81bb8.chunk.js.map": "/doggydaycare/static/js/2.06f81bb8.chunk.js.map",
+    "static/js/3.4f49726a.chunk.js": "/doggydaycare/static/js/3.4f49726a.chunk.js",
+    "static/js/3.4f49726a.chunk.js.map": "/doggydaycare/static/js/3.4f49726a.chunk.js.map",
+    "index.html": "/doggydaycare/index.html",
+    "static/css/main.b551b721.chunk.css.map": "/doggydaycare/static/css/main.b551b721.chunk.css.map",
+    "static/js/2.06f81bb8.chunk.js.LICENSE.txt": "/doggydaycare/static/js/2.06f81bb8.chunk.js.LICENSE.txt",
+    "static/media/dogimage.60600ade.jpg": "/doggydaycare/static/media/dogimage.60600ade.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68c532ed.js",
+    "static/js/2.06f81bb8.chunk.js",
+    "static/css/main.b551b721.chunk.css",
+    "static/js/main.f2aa0a41.chunk.js"
+  ]
+}
